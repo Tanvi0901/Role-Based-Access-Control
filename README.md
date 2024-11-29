@@ -63,7 +63,7 @@ Follow these steps to get this project up and running on your local machine:
 ### 2. Clone the Repository
 
 ```
-git clone https://github.com/your-repo/role-based-access-control-with-jwt.git
+git clone https://github.com/Tanvi0901/Role-Based-Access-Control.git
 ``` 
    
 
