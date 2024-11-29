@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="moduleMapping">
+      <map>
+        <entry key="RoleBasedAC" value="Spring-3-spring-security-6-Jwt-security-Authentication-authorization-master" />
+      </map>
+    </option>
+  </component>
+</project>
